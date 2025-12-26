@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/veerendra789/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/veerendra789/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/veerendra789/leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/veerendra789/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/veerendra789/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/veerendra789/leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/veerendra789/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/veerendra789/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/veerendra789/leetcode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/veerendra789/leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/veerendra789/leetcode/tree/master/1929-concatenation-of-array) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/veerendra789/leetcode/tree/master/0258-add-digits) |
 | [2614-prime-in-diagonal](https://github.com/veerendra789/leetcode/tree/master/2614-prime-in-diagonal) |
 ## Heap (Priority Queue)
 |  |
