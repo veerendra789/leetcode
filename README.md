@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/veerendra789/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/veerendra789/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/veerendra789/leetcode/tree/master/0283-move-zeroes) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/veerendra789/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1929-concatenation-of-array](https://github.com/veerendra789/leetcode/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/veerendra789/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/veerendra789/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/veerendra789/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/veerendra789/leetcode/tree/master/0169-majority-element) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/veerendra789/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
