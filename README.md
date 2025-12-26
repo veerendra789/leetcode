@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/veerendra789/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/veerendra789/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0412-fizz-buzz](https://github.com/veerendra789/leetcode/tree/master/0412-fizz-buzz) |
+| [0796-rotate-string](https://github.com/veerendra789/leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/veerendra789/leetcode/tree/master/0812-rotate-string) |
 ## Trie
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/veerendra789/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/veerendra789/leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/veerendra789/leetcode/tree/master/0812-rotate-string) |
 ## Simulation
 |  |
