@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/veerendra789/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/veerendra789/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/veerendra789/leetcode/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/veerendra789/leetcode/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/veerendra789/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2614-prime-in-diagonal](https://github.com/veerendra789/leetcode/tree/master/2614-prime-in-diagonal) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/veerendra789/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
