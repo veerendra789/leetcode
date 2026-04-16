@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/veerendra789/leetcode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/veerendra789/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/veerendra789/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/veerendra789/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/veerendra789/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/veerendra789/leetcode/tree/master/0812-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/veerendra789/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1629-slowest-key](https://github.com/veerendra789/leetcode/tree/master/1629-slowest-key) |
+| [1768-merge-strings-alternately](https://github.com/veerendra789/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
