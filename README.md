@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/veerendra789/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1629-slowest-key](https://github.com/veerendra789/leetcode/tree/master/1629-slowest-key) |
 | [1768-merge-strings-alternately](https://github.com/veerendra789/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/veerendra789/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/veerendra789/leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/veerendra789/leetcode/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/veerendra789/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2390-removing-stars-from-a-string](https://github.com/veerendra789/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Database
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/veerendra789/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/veerendra789/leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/veerendra789/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/veerendra789/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
