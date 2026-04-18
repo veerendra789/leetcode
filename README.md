@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/veerendra789/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/veerendra789/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/veerendra789/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0485-max-consecutive-ones](https://github.com/veerendra789/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/veerendra789/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/veerendra789/leetcode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/veerendra789/leetcode/tree/master/0867-transpose-matrix) |
