@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/veerendra789/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/veerendra789/leetcode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/veerendra789/leetcode/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/veerendra789/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/veerendra789/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/veerendra789/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/veerendra789/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/veerendra789/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/veerendra789/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/veerendra789/leetcode/tree/master/0507-perfect-number) |
+| [0877-stone-game](https://github.com/veerendra789/leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/veerendra789/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2485-find-the-pivot-integer](https://github.com/veerendra789/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2614-prime-in-diagonal](https://github.com/veerendra789/leetcode/tree/master/2614-prime-in-diagonal) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/veerendra789/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/veerendra789/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/veerendra789/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/veerendra789/leetcode/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -280,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/veerendra789/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/veerendra789/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
