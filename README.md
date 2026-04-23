@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/veerendra789/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2574-left-and-right-sum-differences](https://github.com/veerendra789/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/veerendra789/leetcode/tree/master/2614-prime-in-diagonal) |
+| [2615-sum-of-distances](https://github.com/veerendra789/leetcode/tree/master/2615-sum-of-distances) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/veerendra789/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/veerendra789/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/veerendra789/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/veerendra789/leetcode/tree/master/0268-missing-number) |
+| [2615-sum-of-distances](https://github.com/veerendra789/leetcode/tree/master/2615-sum-of-distances) |
 ## String
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/veerendra789/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/veerendra789/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/veerendra789/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2615-sum-of-distances](https://github.com/veerendra789/leetcode/tree/master/2615-sum-of-distances) |
 ## Design
 |  |
 | ------- |
