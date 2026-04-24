@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/veerendra789/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/veerendra789/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/veerendra789/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2833-furthest-point-from-origin](https://github.com/veerendra789/leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Trie
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/veerendra789/leetcode/tree/master/0169-majority-element) |
+| [2833-furthest-point-from-origin](https://github.com/veerendra789/leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Matrix
 |  |
 | ------- |
