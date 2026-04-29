@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/veerendra789/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2615-sum-of-distances](https://github.com/veerendra789/leetcode/tree/master/2615-sum-of-distances) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/veerendra789/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3225-maximum-score-from-grid-operations](https://github.com/veerendra789/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/veerendra789/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Math
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/veerendra789/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/veerendra789/leetcode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/veerendra789/leetcode/tree/master/0877-stone-game) |
+| [3225-maximum-score-from-grid-operations](https://github.com/veerendra789/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/veerendra789/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/veerendra789/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2614-prime-in-diagonal](https://github.com/veerendra789/leetcode/tree/master/2614-prime-in-diagonal) |
+| [3225-maximum-score-from-grid-operations](https://github.com/veerendra789/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 ## Number Theory
 |  |
 | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/veerendra789/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/veerendra789/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/veerendra789/leetcode/tree/master/2615-sum-of-distances) |
+| [3225-maximum-score-from-grid-operations](https://github.com/veerendra789/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 ## Design
 |  |
 | ------- |
