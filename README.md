@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/veerendra789/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/veerendra789/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/veerendra789/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0396-rotate-function](https://github.com/veerendra789/leetcode/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/veerendra789/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/veerendra789/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/veerendra789/leetcode/tree/master/0739-daily-temperatures) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/veerendra789/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/veerendra789/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/veerendra789/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0396-rotate-function](https://github.com/veerendra789/leetcode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/veerendra789/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/veerendra789/leetcode/tree/master/0507-perfect-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/veerendra789/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/veerendra789/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/veerendra789/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/veerendra789/leetcode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/veerendra789/leetcode/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/veerendra789/leetcode/tree/master/0877-stone-game) |
 | [3225-maximum-score-from-grid-operations](https://github.com/veerendra789/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/veerendra789/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
