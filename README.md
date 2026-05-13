@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/veerendra789/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/veerendra789/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1629-slowest-key](https://github.com/veerendra789/leetcode/tree/master/1629-slowest-key) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/veerendra789/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/veerendra789/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/veerendra789/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/veerendra789/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/veerendra789/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/veerendra789/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/veerendra789/leetcode/tree/master/0268-missing-number) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/veerendra789/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/veerendra789/leetcode/tree/master/2615-sum-of-distances) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/veerendra789/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/veerendra789/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/veerendra789/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/veerendra789/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1991-find-the-middle-index-in-array](https://github.com/veerendra789/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/veerendra789/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/veerendra789/leetcode/tree/master/2574-left-and-right-sum-differences) |
