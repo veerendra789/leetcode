@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/veerendra789/leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/veerendra789/leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/veerendra789/leetcode/tree/master/0881-boats-to-save-people) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/veerendra789/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/veerendra789/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/veerendra789/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1345-jump-game-iv](https://github.com/veerendra789/leetcode/tree/master/1345-jump-game-iv) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/veerendra789/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/veerendra789/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/veerendra789/leetcode/tree/master/0268-missing-number) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/veerendra789/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1345-jump-game-iv](https://github.com/veerendra789/leetcode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/veerendra789/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/veerendra789/leetcode/tree/master/2615-sum-of-distances) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/veerendra789/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/veerendra789/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/veerendra789/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/veerendra789/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1991-find-the-middle-index-in-array](https://github.com/veerendra789/leetcode/tree/master/1991-find-the-middle-index-in-array) |
