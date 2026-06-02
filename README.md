@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/veerendra789/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/veerendra789/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3225-maximum-score-from-grid-operations](https://github.com/veerendra789/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/veerendra789/leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/veerendra789/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/veerendra789/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/veerendra789/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
