@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/veerendra789/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/veerendra789/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/veerendra789/leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/veerendra789/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/veerendra789/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/veerendra789/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/veerendra789/leetcode/tree/master/0088-merge-sorted-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/veerendra789/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/veerendra789/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/veerendra789/leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/veerendra789/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/veerendra789/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/veerendra789/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/veerendra789/leetcode/tree/master/0202-happy-number) |
