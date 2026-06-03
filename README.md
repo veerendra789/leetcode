@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/veerendra789/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/veerendra789/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1345-jump-game-iv](https://github.com/veerendra789/leetcode/tree/master/1345-jump-game-iv) |
+| [1390-four-divisors](https://github.com/veerendra789/leetcode/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/veerendra789/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/veerendra789/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/veerendra789/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/veerendra789/leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/veerendra789/leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/veerendra789/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1390-four-divisors](https://github.com/veerendra789/leetcode/tree/master/1390-four-divisors) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/veerendra789/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2485-find-the-pivot-integer](https://github.com/veerendra789/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2614-prime-in-diagonal](https://github.com/veerendra789/leetcode/tree/master/2614-prime-in-diagonal) |
