@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/veerendra789/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/veerendra789/leetcode/tree/master/0110-balanced-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/veerendra789/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/veerendra789/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/veerendra789/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -464,11 +465,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/veerendra789/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/veerendra789/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/veerendra789/leetcode/tree/master/0110-balanced-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/veerendra789/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/veerendra789/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/veerendra789/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/veerendra789/leetcode/tree/master/0110-balanced-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/veerendra789/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
