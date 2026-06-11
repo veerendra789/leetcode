@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/veerendra789/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/veerendra789/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/veerendra789/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/veerendra789/leetcode/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/veerendra789/leetcode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/veerendra789/leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/veerendra789/leetcode/tree/master/0877-stone-game) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/veerendra789/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/veerendra789/leetcode/tree/master/0389-find-the-difference) |
 | [0705-design-hashset](https://github.com/veerendra789/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/veerendra789/leetcode/tree/master/0706-design-hashmap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/veerendra789/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1345-jump-game-iv](https://github.com/veerendra789/leetcode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/veerendra789/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/veerendra789/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/veerendra789/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0705-design-hashset](https://github.com/veerendra789/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/veerendra789/leetcode/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/veerendra789/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/veerendra789/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/veerendra789/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/veerendra789/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/veerendra789/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/veerendra789/leetcode/tree/master/0706-design-hashmap) |
 ## Memoization
 |  |
 | ------- |
@@ -531,4 +535,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/veerendra789/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/veerendra789/leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
