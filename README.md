@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/veerendra789/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/veerendra789/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/veerendra789/leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/veerendra789/leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/veerendra789/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/veerendra789/leetcode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/veerendra789/leetcode/tree/master/0412-fizz-buzz) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/veerendra789/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/veerendra789/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/veerendra789/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/veerendra789/leetcode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/veerendra789/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/veerendra789/leetcode/tree/master/0704-binary-search) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/veerendra789/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
