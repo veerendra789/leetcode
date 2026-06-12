@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/veerendra789/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/veerendra789/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/veerendra789/leetcode/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/veerendra789/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/veerendra789/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/veerendra789/leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/veerendra789/leetcode/tree/master/0877-stone-game) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/veerendra789/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/veerendra789/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/veerendra789/leetcode/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/veerendra789/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/veerendra789/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/veerendra789/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/veerendra789/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/veerendra789/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/veerendra789/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/veerendra789/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/veerendra789/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/veerendra789/leetcode/tree/master/0704-binary-search) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/veerendra789/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/veerendra789/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
