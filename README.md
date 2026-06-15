@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/veerendra789/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/veerendra789/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/veerendra789/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/veerendra789/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/veerendra789/leetcode/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/veerendra789/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/veerendra789/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/veerendra789/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/veerendra789/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/veerendra789/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/veerendra789/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/veerendra789/leetcode/tree/master/0389-find-the-difference) |
 | [0523-continuous-subarray-sum](https://github.com/veerendra789/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/veerendra789/leetcode/tree/master/0525-contiguous-array) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/veerendra789/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/veerendra789/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/veerendra789/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/veerendra789/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/veerendra789/leetcode/tree/master/0389-find-the-difference) |
 | [0881-boats-to-save-people](https://github.com/veerendra789/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/veerendra789/leetcode/tree/master/0912-sort-an-array) |
@@ -366,12 +369,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/veerendra789/leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/veerendra789/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/veerendra789/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/veerendra789/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/veerendra789/leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/veerendra789/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/veerendra789/leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/veerendra789/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2833-furthest-point-from-origin](https://github.com/veerendra789/leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Matrix
 |  |
@@ -403,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/veerendra789/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/veerendra789/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/veerendra789/leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/veerendra789/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
@@ -483,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/veerendra789/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/veerendra789/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -586,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/veerendra789/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/veerendra789/leetcode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
