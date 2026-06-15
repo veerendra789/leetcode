@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/veerendra789/leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/veerendra789/leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/veerendra789/leetcode/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/veerendra789/leetcode/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/veerendra789/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/veerendra789/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/veerendra789/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/veerendra789/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/veerendra789/leetcode/tree/master/0389-find-the-difference) |
 | [0881-boats-to-save-people](https://github.com/veerendra789/leetcode/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/veerendra789/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/veerendra789/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/veerendra789/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/veerendra789/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/veerendra789/leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/veerendra789/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/veerendra789/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/veerendra789/leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/veerendra789/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/veerendra789/leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/veerendra789/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
@@ -537,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/veerendra789/leetcode/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/veerendra789/leetcode/tree/master/0912-sort-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -578,4 +583,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/veerendra789/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/veerendra789/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/veerendra789/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/veerendra789/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/veerendra789/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
