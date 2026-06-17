@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/veerendra789/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/veerendra789/leetcode/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/veerendra789/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0844-backspace-string-compare](https://github.com/veerendra789/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/veerendra789/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/veerendra789/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/veerendra789/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/veerendra789/leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/veerendra789/leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/veerendra789/leetcode/tree/master/0812-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/veerendra789/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/veerendra789/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1629-slowest-key](https://github.com/veerendra789/leetcode/tree/master/1629-slowest-key) |
 | [1768-merge-strings-alternately](https://github.com/veerendra789/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/veerendra789/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/veerendra789/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/veerendra789/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/veerendra789/leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/veerendra789/leetcode/tree/master/0867-transpose-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/veerendra789/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/veerendra789/leetcode/tree/master/1929-concatenation-of-array) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/veerendra789/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/veerendra789/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/veerendra789/leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/veerendra789/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/veerendra789/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/veerendra789/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/veerendra789/leetcode/tree/master/2390-removing-stars-from-a-string) |
