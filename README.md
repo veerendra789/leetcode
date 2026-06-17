@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/veerendra789/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3174-clear-digits](https://github.com/veerendra789/leetcode/tree/master/3174-clear-digits) |
 | [3612-process-string-with-special-operations-i](https://github.com/veerendra789/leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/veerendra789/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/veerendra789/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/veerendra789/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/veerendra789/leetcode/tree/master/3174-clear-digits) |
 | [3612-process-string-with-special-operations-i](https://github.com/veerendra789/leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/veerendra789/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/veerendra789/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Database
 |  |
