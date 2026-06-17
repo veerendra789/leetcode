@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/veerendra789/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/veerendra789/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/veerendra789/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/veerendra789/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/veerendra789/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/veerendra789/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/veerendra789/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/veerendra789/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/veerendra789/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/veerendra789/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/veerendra789/leetcode/tree/master/0682-baseball-game) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/veerendra789/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/veerendra789/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/veerendra789/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/veerendra789/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/veerendra789/leetcode/tree/master/0867-transpose-matrix) |
