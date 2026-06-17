@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/veerendra789/leetcode/tree/master/3731-find-missing-elements) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/veerendra789/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3838-weighted-word-mapping](https://github.com/veerendra789/leetcode/tree/master/3838-weighted-word-mapping) |
+| [3842-toggle-light-bulbs](https://github.com/veerendra789/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/veerendra789/leetcode/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/veerendra789/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/veerendra789/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3731-find-missing-elements](https://github.com/veerendra789/leetcode/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/veerendra789/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/veerendra789/leetcode/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/veerendra789/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/veerendra789/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/veerendra789/leetcode/tree/master/3838-weighted-word-mapping) |
+| [3842-toggle-light-bulbs](https://github.com/veerendra789/leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Database
 |  |
 | ------- |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/veerendra789/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/veerendra789/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3731-find-missing-elements](https://github.com/veerendra789/leetcode/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/veerendra789/leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Dynamic Programming
 |  |
 | ------- |
