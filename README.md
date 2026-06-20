@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/veerendra789/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/veerendra789/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/veerendra789/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1840-maximum-building-height](https://github.com/veerendra789/leetcode/tree/master/1840-maximum-building-height) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/veerendra789/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/veerendra789/leetcode/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/veerendra789/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/veerendra789/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/veerendra789/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/veerendra789/leetcode/tree/master/1390-four-divisors) |
+| [1840-maximum-building-height](https://github.com/veerendra789/leetcode/tree/master/1840-maximum-building-height) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/veerendra789/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2485-find-the-pivot-integer](https://github.com/veerendra789/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2614-prime-in-diagonal](https://github.com/veerendra789/leetcode/tree/master/2614-prime-in-diagonal) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/veerendra789/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/veerendra789/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/veerendra789/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1840-maximum-building-height](https://github.com/veerendra789/leetcode/tree/master/1840-maximum-building-height) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/veerendra789/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/veerendra789/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/veerendra789/leetcode/tree/master/2418-sort-the-people) |
