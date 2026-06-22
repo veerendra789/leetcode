@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/veerendra789/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/veerendra789/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/veerendra789/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/veerendra789/leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/veerendra789/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/veerendra789/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/veerendra789/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/veerendra789/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/veerendra789/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/veerendra789/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/veerendra789/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/veerendra789/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/veerendra789/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/veerendra789/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/veerendra789/leetcode/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/veerendra789/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/veerendra789/leetcode/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/veerendra789/leetcode/tree/master/1833-maximum-ice-cream-bars) |
