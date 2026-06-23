@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/veerendra789/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/veerendra789/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/veerendra789/leetcode/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/veerendra789/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/veerendra789/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/veerendra789/leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/veerendra789/leetcode/tree/master/0367-valid-perfect-square) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/veerendra789/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/veerendra789/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/veerendra789/leetcode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/veerendra789/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/veerendra789/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/veerendra789/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/veerendra789/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/veerendra789/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/veerendra789/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/veerendra789/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0264-ugly-number-ii](https://github.com/veerendra789/leetcode/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/veerendra789/leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/veerendra789/leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/veerendra789/leetcode/tree/master/0509-fibonacci-number) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/veerendra789/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/veerendra789/leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/veerendra789/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/veerendra789/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/veerendra789/leetcode/tree/master/0451-sort-characters-by-frequency) |
