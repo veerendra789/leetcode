@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/veerendra789/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/veerendra789/leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/veerendra789/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3945-digit-frequency-score](https://github.com/veerendra789/leetcode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/veerendra789/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3842-toggle-light-bulbs](https://github.com/veerendra789/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/veerendra789/leetcode/tree/master/3866-first-unique-even-element) |
+| [3945-digit-frequency-score](https://github.com/veerendra789/leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
