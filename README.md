@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/veerendra789/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/veerendra789/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2615-sum-of-distances](https://github.com/veerendra789/leetcode/tree/master/2615-sum-of-distances) |
+| [2733-neither-minimum-nor-maximum](https://github.com/veerendra789/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/veerendra789/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/veerendra789/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/veerendra789/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/veerendra789/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2418-sort-the-people](https://github.com/veerendra789/leetcode/tree/master/2418-sort-the-people) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/veerendra789/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2733-neither-minimum-nor-maximum](https://github.com/veerendra789/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/veerendra789/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/veerendra789/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/veerendra789/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
