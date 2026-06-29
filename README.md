@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/veerendra789/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/veerendra789/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/veerendra789/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/veerendra789/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3842-toggle-light-bulbs](https://github.com/veerendra789/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/veerendra789/leetcode/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/veerendra789/leetcode/tree/master/3945-digit-frequency-score) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/veerendra789/leetcode/tree/master/3174-clear-digits) |
 | [3612-process-string-with-special-operations-i](https://github.com/veerendra789/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/veerendra789/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/veerendra789/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/veerendra789/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
