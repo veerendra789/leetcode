@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/veerendra789/leetcode/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/veerendra789/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/veerendra789/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2785-sort-vowels-in-a-string](https://github.com/veerendra789/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/veerendra789/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3174-clear-digits](https://github.com/veerendra789/leetcode/tree/master/3174-clear-digits) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/veerendra789/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/veerendra789/leetcode/tree/master/2418-sort-the-people) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/veerendra789/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2784-check-if-array-is-good](https://github.com/veerendra789/leetcode/tree/master/2784-check-if-array-is-good) |
+| [2785-sort-vowels-in-a-string](https://github.com/veerendra789/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/veerendra789/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/veerendra789/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3467-transform-array-by-parity](https://github.com/veerendra789/leetcode/tree/master/3467-transform-array-by-parity) |
