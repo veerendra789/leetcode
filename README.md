@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/veerendra789/leetcode/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/veerendra789/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/veerendra789/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/veerendra789/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/veerendra789/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3731-find-missing-elements](https://github.com/veerendra789/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/veerendra789/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/veerendra789/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/veerendra789/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3174-clear-digits](https://github.com/veerendra789/leetcode/tree/master/3174-clear-digits) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/veerendra789/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/veerendra789/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/veerendra789/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/veerendra789/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/veerendra789/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/veerendra789/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2833-furthest-point-from-origin](https://github.com/veerendra789/leetcode/tree/master/2833-furthest-point-from-origin) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/veerendra789/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/veerendra789/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3866-first-unique-even-element](https://github.com/veerendra789/leetcode/tree/master/3866-first-unique-even-element) |
 ## Matrix
