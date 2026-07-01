@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/veerendra789/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/veerendra789/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/veerendra789/leetcode/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/veerendra789/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/veerendra789/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/veerendra789/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3225-maximum-score-from-grid-operations](https://github.com/veerendra789/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/veerendra789/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/veerendra789/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/veerendra789/leetcode/tree/master/2614-prime-in-diagonal) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/veerendra789/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/veerendra789/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/veerendra789/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Number Theory
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/veerendra789/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/veerendra789/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/veerendra789/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/veerendra789/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/veerendra789/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/veerendra789/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/veerendra789/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/veerendra789/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/veerendra789/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/veerendra789/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/veerendra789/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -738,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/veerendra789/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/veerendra789/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/veerendra789/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/veerendra789/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Game Theory
 |  |
 | ------- |
@@ -756,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/veerendra789/leetcode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/veerendra789/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/veerendra789/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/veerendra789/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/veerendra789/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Merge Sort
 |  |
