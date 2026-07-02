@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/veerendra789/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/veerendra789/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/veerendra789/leetcode/tree/master/3866-first-unique-even-element) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/veerendra789/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
 |  |
 | ------- |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/veerendra789/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/veerendra789/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/veerendra789/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/veerendra789/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Number Theory
 |  |
 | ------- |
@@ -844,4 +846,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/veerendra789/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/veerendra789/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/veerendra789/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
