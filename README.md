@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/veerendra789/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/veerendra789/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3225-maximum-score-from-grid-operations](https://github.com/veerendra789/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/veerendra789/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/veerendra789/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/veerendra789/leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/veerendra789/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/veerendra789/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/veerendra789/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/veerendra789/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/veerendra789/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/veerendra789/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/veerendra789/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Number Theory
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/veerendra789/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/veerendra789/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/veerendra789/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/veerendra789/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/veerendra789/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/veerendra789/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/veerendra789/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/veerendra789/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/veerendra789/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Merge Sort
 |  |
@@ -849,5 +853,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/veerendra789/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/veerendra789/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/veerendra789/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
