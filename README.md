@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/veerendra789/leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/veerendra789/leetcode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/veerendra789/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1301-number-of-paths-with-max-score](https://github.com/veerendra789/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/veerendra789/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1345-jump-game-iv](https://github.com/veerendra789/leetcode/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/veerendra789/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/veerendra789/leetcode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/veerendra789/leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/veerendra789/leetcode/tree/master/0877-stone-game) |
+| [1301-number-of-paths-with-max-score](https://github.com/veerendra789/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/veerendra789/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/veerendra789/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/veerendra789/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/veerendra789/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/veerendra789/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0867-transpose-matrix](https://github.com/veerendra789/leetcode/tree/master/0867-transpose-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/veerendra789/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/veerendra789/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/veerendra789/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/veerendra789/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
