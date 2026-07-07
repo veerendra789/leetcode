@@ -42,7 +42,7 @@ public:
         }
         int c=0;
         for(long long num:result){
-            cout<<num<<" ";
+            //cout<<num<<" ";
             if(num!=0 && num%k==0){
                 c++;
             }
