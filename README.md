@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/veerendra789/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/veerendra789/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/veerendra789/leetcode/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/veerendra789/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/veerendra789/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/veerendra789/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/veerendra789/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/veerendra789/leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/veerendra789/leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/veerendra789/leetcode/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/veerendra789/leetcode/tree/master/0542-01-matrix) |
 | [0788-rotated-digits](https://github.com/veerendra789/leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/veerendra789/leetcode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/veerendra789/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/veerendra789/leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/veerendra789/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/veerendra789/leetcode/tree/master/0419-battleships-in-a-board) |
+| [0542-01-matrix](https://github.com/veerendra789/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/veerendra789/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/veerendra789/leetcode/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/veerendra789/leetcode/tree/master/0867-transpose-matrix) |
@@ -812,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/veerendra789/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/veerendra789/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/veerendra789/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/veerendra789/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/veerendra789/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/veerendra789/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/veerendra789/leetcode/tree/master/0733-flood-fill) |
