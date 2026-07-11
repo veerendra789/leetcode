@@ -1,16 +1,14 @@
 class Solution {
 public:
     int findCenter(vector<vector<int>>& edges) {
-        map<int,int> mp;
-        for(int i=0;i<edges.size();i++){
-            mp[edges[i][0]]++;
-            mp[edges[i][1]]++;
+        int a = edges[0][0];
+        int b = edges[0][1];
+        int c = edges[1][0];
+        int d = edges[1][1];
+
+        if (a == c || a == d) {
+            return a;
         }
-        for(auto it:mp){
-            if(it.second>1){
-                return it.first;
-            }
-        }
-        return -1;
+        return b;
     }
 };
