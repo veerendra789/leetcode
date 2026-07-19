@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/veerendra789/leetcode/tree/master/0812-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/veerendra789/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/veerendra789/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/veerendra789/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/veerendra789/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/veerendra789/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/veerendra789/leetcode/tree/master/1544-make-the-string-great) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/veerendra789/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/veerendra789/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/veerendra789/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/veerendra789/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/veerendra789/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/veerendra789/leetcode/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/veerendra789/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/veerendra789/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/veerendra789/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/veerendra789/leetcode/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/veerendra789/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/veerendra789/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Greedy
 |  |
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/veerendra789/leetcode/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/veerendra789/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/veerendra789/leetcode/tree/master/0881-boats-to-save-people) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/veerendra789/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/veerendra789/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/veerendra789/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/veerendra789/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
