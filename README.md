@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/veerendra789/leetcode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/veerendra789/leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/veerendra789/leetcode/tree/master/1051-height-checker) |
+| [1260-shift-2d-grid](https://github.com/veerendra789/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/veerendra789/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/veerendra789/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/veerendra789/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/veerendra789/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/veerendra789/leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/veerendra789/leetcode/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/veerendra789/leetcode/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/veerendra789/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/veerendra789/leetcode/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/veerendra789/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/veerendra789/leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/veerendra789/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/veerendra789/leetcode/tree/master/1020-number-of-enclaves) |
+| [1260-shift-2d-grid](https://github.com/veerendra789/leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/veerendra789/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/veerendra789/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/veerendra789/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
