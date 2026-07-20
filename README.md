@@ -825,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/veerendra789/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/veerendra789/leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/veerendra789/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/veerendra789/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0965-univalued-binary-tree](https://github.com/veerendra789/leetcode/tree/master/0965-univalued-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/veerendra789/leetcode/tree/master/1020-number-of-enclaves) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/veerendra789/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -872,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/veerendra789/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/veerendra789/leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/veerendra789/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/veerendra789/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0965-univalued-binary-tree](https://github.com/veerendra789/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/veerendra789/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/veerendra789/leetcode/tree/master/1020-number-of-enclaves) |
@@ -968,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/veerendra789/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/veerendra789/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/veerendra789/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/veerendra789/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1791-find-center-of-star-graph](https://github.com/veerendra789/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/veerendra789/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/veerendra789/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -983,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/veerendra789/leetcode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/veerendra789/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [3620-network-recovery-pathways](https://github.com/veerendra789/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Combinatorics
 |  |
